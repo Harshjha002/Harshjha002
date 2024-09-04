@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshjha002
 - 👀 I’m interested in Front-end  web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning BackEnd
 - 📫 How to reach me https://www.linkedin.com/in/harsh-jha-85722b254/
 - 📧 MailTo ::  harshjha75788120@gmail.com
 
