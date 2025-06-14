@@ -18,8 +18,8 @@ Frontend-Focused **Full Stack Developer** | MERN Stack | Learning Java + Spring 
 🔹 **ElanMentor** – AI tutor platform (Next.js + AI)  
 🔹 **ElanStay** – Hotel booking + management (React + Spring Boot)  
 🔹 **PlaceInTime** – MERN travel-sharing app  
-🔹 **FastPizza** – [Pizza ordering UI](https://github.com/Harshjha002/fast-pizza)  
-🔹 **The Wild Oasis** – [Hotel dashboard](https://github.com/Harshjha002/The-Wild-Oasis-internalapp-)
+🔹 **FastPizza** – [Pizza ordering UI](https://fast-pizza-phi-rust.vercel.app/)  
+🔹 **The Wild Oasis** – [Hotel dashboard](https://the-wild-oasis-internalapp.vercel.app/dashboard)
 
 ---
 
