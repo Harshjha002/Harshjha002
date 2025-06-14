@@ -18,10 +18,13 @@ I specialize in the **MERN stack (MongoDB, Express, React, Node.js)** with a str
 
 Under my brand **Elan**, I’m building real-world, production-grade apps:
 
-- **ElanMentor** – AI tutor platform with customizable assistants (Next.js + AI APIs)
-- **ElanStay** – Hotel booking and management system (React + Spring Boot)
-- **ElanRide** – Cab-hailing MVP app inspired by Uber/Ola (MERN + Java backend)
-- **ElanQnA** – Smart FAQ + ticketing system for support teams (React + Node.js)
+🔹  **🤖 ElanMentor** – AI tutor platform with customizable assistants (Next.js + AI APIs)
+🔹  **🏡 ElanStay** – Hotel booking and management system (React + Spring Boot)
+🔹  **🌍 PlaceInTime** – A full-stack MERN travel platform where users **explore, share, and relive unique travel experiences** with rich media uploads  
+🔹  **🍕 FastPizza** – [Online Ordering UI](https://github.com/Harshjha002/fast-pizza)  
+React + Redux shopping cart, validation, and workflows
+🔹  **🏠 The Wild Oasis** – [Hotel Dashboard](https://github.com/Harshjha002/The-Wild-Oasis-internalapp-)  
+Built with React + Supabase, auth, routing, and Recharts visualizations
 
 ---
 
