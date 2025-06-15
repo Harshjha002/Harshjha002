@@ -32,7 +32,7 @@ REST API · JWT · OAuth 2.0 · DBMS · Responsive Design
 
 - 🔹 **ElanMentor** – AI-driven tutoring platform (Next.js + AI)
 - 🔹 **ElanStay** – Hotel booking + admin dashboard (React + Spring Boot)
-- 🔹 **PlaceInTime** – MERN stack travel-sharing social app
+- 🔹 **PlaceInTime** –  MERN app to share & explore travel experiences 🌍
 - 🔹 **FastPizza** – [Live Demo 🍕](https://fast-pizza-phi-rust.vercel.app/)
 - 🔹 **The Wild Oasis** – [Hotel dashboard 🏨](https://the-wild-oasis-internalapp.vercel.app/dashboard)
 
