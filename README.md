@@ -41,7 +41,7 @@ REST API · JWT · OAuth 2.0 · DBMS · Responsive Design
 ### 📫 Let’s Connect
 
 📎 [LinkedIn](https://www.linkedin.com/in/harsh-jha-85722b254/)  
-📩 harshjha75788120@gmail.com
+📩 harshjha2234@gmail.com
 
 > 💡 _Consistently learning, building, and refining. Let’s create something meaningful!_
 
