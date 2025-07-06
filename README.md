@@ -1,47 +1,48 @@
 # 👋 Hi, I’m Harsh Jha (@Harshjha002)
 
-**Frontend-Focused Full Stack Developer**  
-⚛️ MERN Stack | ☕ Learning Java + Spring Boot  
-🚀 Passionate about building responsive, real-world apps with clean, scalable code
+**Frontend-Focused Full-Stack Developer**  
+⚛️ React · 🟦 TypeScript · 🐍 MERN Stack · ☕ Learning Java + Spring Boot  
+🚀 Passionate about building real-world apps with clean code, modern UI, and scalable architecture.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:**  
-JavaScript · Java · Python
+**Languages**  
+JavaScript · TypeScript · Java · Python
 
-**Frontend:**  
-React.js · Redux · Next.js · Tailwind CSS · HTML · CSS
+**Frontend**  
+React.js · Next.js (SSR/ISR) · Redux · Tailwind CSS · HTML5 · CSS3
 
-**Backend:**  
-Node.js · Express.js · Java (Spring Boot – learning)
+**Backend**  
+Node.js · Express.js · REST APIs · WebSockets · Java (Spring Boot – learning)
 
-**Databases:**  
+**Databases**  
 MongoDB · PostgreSQL · MySQL
 
-**Tools & Platforms:**  
-Git · GitHub · Docker · Postman · VS Code · Vercel · Render
+**Tools & DevOps**  
+Git · GitHub · Docker · Postman · Vercel · Render · VS Code
 
-**Other:**  
-REST API · JWT · OAuth 2.0 · DBMS · Responsive Design
+**Other**  
+NextAuth.js · JWT · OAuth 2.0 · OpenAPI (Swagger) · Responsive Design · DBMS · CI/CD
 
 ---
 
-### 🧩 Projects
+## 🧩 Projects
 
-- 🔹 **ElanMentor** – AI-driven tutoring platform (Next.js + AI)
+- 🔹 **ElanMentor** – AI-driven tutoring platform (Next.js + AI integration)
 - 🔹 **ElanStay** – Hotel booking + admin dashboard (React + Spring Boot)
-- 🔹 **PlaceInTime** –  MERN app to share & explore travel experiences 🌍
+- 🔹 **PlaceInTime** – MERN app to share & explore travel experiences 🌍
 - 🔹 **FastPizza** – [Live Demo 🍕](https://fast-pizza-phi-rust.vercel.app/)
 - 🔹 **The Wild Oasis** – [Hotel dashboard 🏨](https://the-wild-oasis-internalapp.vercel.app/dashboard)
 
 ---
 
-### 📫 Let’s Connect
+## 📫 Connect With Me
 
-📎 [LinkedIn](https://www.linkedin.com/in/harsh-jha-85722b254/)  
-📩 harshjha2234@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harsh-jha-85722b254/)  
+📩 **Email**: harshjha2234@gmail.com
 
-> 💡 _Consistently learning, building, and refining. Let’s create something meaningful!_
+---
 
+> _Always learning, building, and growing. Let’s collaborate and create something impactful!_
